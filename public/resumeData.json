@@ -1,0 +1,168 @@
+{
+  "main": {
+    "name":"Francisco Burchardt",
+    "image":"konrad-burchardt.png",
+    "bio":"Soy un programador de front-end y diseñador UX/UI con experiencia en Keiphone.com, donde trabajo como diseñador y atiendo el servicio al cliente. Mi habilidad de programacion me permite crear soluciones interactivas y atractivas para los usuarios, mientras que mi conocimiento en diseño UX/UI me permite entender las necesidades y deseos de los usuarios y traducirlos en experiencias satisfactorias.\n Ademas, tengo una formacion solida en Photoshop, Figma y Adobe XD, lo que me permite crear graficos de alta calidad y trabajar en la edicion de imagenes y videos. Esto me ha permitido aplicar mis habilidades en la creacion de materiales de marketing y diseño de productos para Keiphone.com. \n \n Soy originario de Santiago, Chile, y estoy orgulloso de formar parte de la vibrante comunidad tecnologica de mi pais. Me encanta trabajar en proyectos desafiantes y siempre estoy buscando aprender y mejorar mis habilidades. Estoy emocionado de seguir creciendo profesionalmente y contribuir al exito de mis clientes y de Keiphone" ,
+    "contactmessage":"No dude en ponerse en contacto conmigo si desea hablar sobre proyectos de UX/UI o proyectos de desarrollo web.",
+    "email": "burchardt95@gmail.com",
+    "phone": "+569 9806 4936",
+    "website": "https://www.kburchardt.com",
+    "resumedownload":"https://www.kburchardt.com/Konrad_burchardt.pdf",
+    "social":[
+      {
+        "name":"linkedin",
+        "url":"https://www.linkedin.com/in/francisco-burchardt/",
+        "className":"fa fa-linkedin"
+      },
+
+      {
+        "name":"github",
+        "url":"https://github.com/Panchob28",
+        "className":"fa fa-github"
+      }
+    ]
+  },
+  "resume":{
+    "skillmessage":"Estas son las habilidades y herramientas que domino",
+    "education":[
+      {
+        "school":"Desafio Latam",
+        "location":"Santiago, Chile",
+        "degree":"Desarollo Front End ",
+        "graduated":"Abr - Dic 2022",
+        "description":"Desarollo en Html, Css , JavaScript y ReactJS"
+      },
+      {
+        "school":"Desafio Latam",
+        "location":"Santiago, Chile",
+        "degree":"Diseño UX/UI",
+        "graduated":"Abr - Dic 2019",
+        "description":"Desarollo en Html, Css Avanzado, Diseño UI y Diseño UX"
+      }
+    ],
+    "work":[
+      {
+        "company":"Keiphone",
+        "location":"Santiago, Chile",
+        "title":" Diseñador - Servicio tecnico",
+        "years":"Feb 2022 - Present",
+        "description":"Encargado del diseño publicitario de Keiphone.com y trabajando como atencion al cliente y todo el servicio tecnico Keiphone.com"},
+
+      {
+        "company":"Imagemaker",
+        "location":"Santiago, Chile",
+        "title":"Practicante de UX/UI ",
+        "years":"Sep 2021 - Dic 2021",
+        "description":"Estuve como practicante de diferentes aplicaciones web y diseños" },
+      {
+        "company":"Keiphone",
+        "location":"Santiago, Chile",
+        "title":"Diseñador",
+        "years":"Junio 2017 - Dic 2018",
+        "description":"Encargado del diseño web y diseño publicitario de Facebook, Instagram y diferentes RRSS"
+      }
+
+        
+    ],
+    "dis":[
+
+      {
+        "name":"Figma",
+        "image":"figma.png",
+        "url":"https://www.figma.com/"
+      },
+      {
+        "name":"Photoshop",
+        "image":"photoshop.png",
+        "url":"https://www.adobe.com/"
+      },
+      {
+        "name":"Adobe XD",
+        "image":"adobexd.png",
+        "url":"https://www.adobe.com/"
+      },
+      {
+        "name":"Font Awesome",
+        "image":"fontawesome.png",
+        "url":"https://fontawesome.com/"
+      }
+    ],
+    "code":[
+      {
+        "name":"HTML & CSS",
+        "image":"htmlcss.png",
+        "url":"https://www.w3.org/standards/webdesign/htmlcss"
+      },
+      {
+        "name":"JavaScript",
+        "image":"js.png",
+        "url":":https://developer.mozilla.org/en-US/docs/Web/JavaScript"
+      },
+      {
+        "name":"React",
+        "image":"react.png",
+        "url":"https://reactjs.org/"
+      },{
+        "name":"Sass",
+        "image":"sass.png",
+        "url":"https://sass-lang.com/"
+      },
+      {
+        "name":"Bootstrap",
+        "image":"bootstrap.png",
+        "url":"https://getbootstrap.com/"
+      },
+      {
+        "name":"GitHub",
+        "image":"github.png",
+        "url":"https://github.com/"
+      }, 
+      {
+        "name":"WordPress",
+        "image":"wordpress.png",
+        "url":"https://www.wordpres.org"
+      }
+    ],
+    "languages":[
+      {"name":"Español (Nativo)",
+        "image":"spanish.png"
+      }, 
+      {"name":"Ingles (Avanzado)",
+        "image":"usflag.png"
+      }
+    ]
+  },
+  "portfolio":{
+    "projects": [
+       {
+        "title":"Treek-in",
+        "category":"",
+        "keywords":"",
+        "image":"proyecto1.gif",
+        "url":"https://panchob28.github.io/treek-in/"
+      },
+      {
+        "title":"Gigeo",
+        "category":"",
+        "keywords":"",
+        "image":"proyecto2.gif",
+        "url":"https://panchob28.github.io/gigeo/"
+      },
+      
+      {
+        "title":"Cafe Agere",
+        "category":"",
+        "keywords":"",
+        "image":"proyecto3.gif",
+        "url":"https://panchob28.github.io/cafeteria/"
+      },
+      {
+        "title":"Desafio Cuppon",
+        "category":"",
+        "keywords":"",
+        "image":"proyecto4.gif",
+        "url":"https://panchob28.github.io/desafio-cuppon/"
+      }
+    ]
+  }
+}
